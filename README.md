@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoWeather" title="#GoWeather" src=".github/logo.png" width="250px" />
+    <img alt="GoWeather" title="#GoWeather" src="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-0.png" width="250px" />
 </h1>
  <p align="center">Aplicativo para previsão do tempo.</p>
 <p align="center">
